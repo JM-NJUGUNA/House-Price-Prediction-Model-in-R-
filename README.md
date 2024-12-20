@@ -1,7 +1,7 @@
 ---
 title: "House Price Prediction Model - R"
 author: "NJUGUNA J.M"
-date: "`r Sys.Date()`"
+date: 20/12/2024
 output: html_document
 df_print: paged
 ---
